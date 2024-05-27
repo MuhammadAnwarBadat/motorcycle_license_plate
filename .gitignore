@@ -1,0 +1,54 @@
+main2.py
+main.py
+
+*.pth
+*.pt
+
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Dependency directories
+lib/
+libs/
+
+# Log files
+*.log
+
+# Cache directories
+instance/
+
+# Generated files
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Editor backup files
+*~
+
+# End of files
+
